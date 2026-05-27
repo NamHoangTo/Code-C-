@@ -11,19 +11,8 @@
 using namespace std;
 
 int main() {
-    // làm sao để stringstream capture được các con số và in ra 
-    // string a = "10b,20c.30,40";
-    // stringstream s(a);
-    // int b;
-    // char c;
-    // for (int i = 0; i < 10; i++){
-    //     if (s >> b) cout << b << " ";
-    //     else  {
-    //         s.clear();
-    //         s >> c;
-    //     }
-    // }
     cout << "Skibidi";
+    cout << "123";
     return 0;
 }
 
